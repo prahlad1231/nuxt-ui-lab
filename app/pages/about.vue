@@ -5,6 +5,6 @@ definePageMeta({
 </script>
 
 <template>
-  <UDashboardNavbar title="Dashboard" />
-  <div class="p-6">Welcome to your dashboard 🚀</div>
+  <UDashboardNavbar title="About" />
+  <div class="p-6">This is the about page ℹ️</div>
 </template>

@@ -10,8 +10,9 @@ useHead({
 
 <template>
   <UApp>
-    <UMain>
+    <NuxtLoadingIndicator />
+    <NuxtLayout>
       <NuxtPage />
-    </UMain>
+    </NuxtLayout>
   </UApp>
 </template>
