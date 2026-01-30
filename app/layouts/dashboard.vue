@@ -20,11 +20,12 @@ const items: NavigationMenuItem[][] = [
         {
           label: "Buttons",
           icon: "i-lucide-square-arrow-right",
-          to: "/buttons",
+          to: "/components/buttons",
         },
         {
           label: "Cards",
           icon: "i-lucide-id-card",
+          to: "/components/cards",
         },
       ],
     },
@@ -33,10 +34,12 @@ const items: NavigationMenuItem[][] = [
     {
       label: "Settings",
       icon: "i-lucide-settings",
+      to: "/settings",
     },
     {
       label: "Profile",
       icon: "i-lucide-user",
+      to: "/profile",
     },
   ],
 ];

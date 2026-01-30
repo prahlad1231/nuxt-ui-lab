@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import CustomButton from "~/components/customButton.vue";
+import CustomButton from "~/components/buttons/customButton.vue";
 
 definePageMeta({
   layout: "dashboard",
